@@ -1,84 +1,84 @@
-// var a = 7;
+var a = 7;
 
-// var b = 8;
+var b = 8;
 
-// var c = a+b;
+var c = a+b;
 
-// console.log(c);
-
-
-// var e = 9;
-
-// var f = 10;
-
-// var g = e-f;
-
-// console.log(g);
+console.log(c);
 
 
-// var h = "Huzaifa";
+var e = 9;
 
-// var i = 10;
+var f = 10;
 
-// var j = h*i;
+var g = e-f;
 
-// console.log(j);
-
-
-// var k = "20";
-
-// var l = 10;
-
-// var m = k-l;
-
-// console.log(m);
+console.log(g);
 
 
-// var n = 9/3+4-6*2;
+var h = "Huzaifa";
 
-// console.log(n);
+var i = 10;
 
-// var o = 9/3+(4-6)*2;
+var j = h*i;
 
-// console.log(o);
-
-
-// var a = 2;
-
-// var b = --a + a + a++ - a-- + a + --a + a-- - a++ - --a;
-
-// console.log(b);
+console.log(j);
 
 
-// var a = 4;
+var k = "20";
 
-// var b = 2;
+var l = 10;
 
-// var exp = a - --b + ++a - --a - --b + a;
+var m = k-l;
 
-//        4 - 1 + 5 - 4 - 0 + 4
-
-// console.log(exp);
+console.log(m);
 
 
-// var li1 = "List1";
+var n = 9/3+4-6*2;
 
-// var li2 = "List2";
+console.log(n);
 
-// var li3 = "List3";
+var o = 9/3+(4-6)*2;
 
-// document.write("<ul><li>", li1, "</li><li>", li2, "</li><li>", li3, "</li></ul>");
-
-
-// var firstName = prompt("Enter first name");
-
-// var lastName = prompt("Enter last name");
-
-// console.log("My name is", firstName, lastName);
+console.log(o);
 
 
-// var firstNumber = +prompt("Enter first number");
+var a = 2;
 
-// var lastNumber = +prompt("Enter last number");
+var b = --a + a + a++ - a-- + a + --a + a-- - a++ - --a;
 
-// console.log(firstNumber + lastNumber);
+console.log(b);
+
+
+var a = 4;
+
+var b = 2;
+
+var exp = a - --b + ++a - --a - --b + a;
+
+       4 - 1 + 5 - 4 - 0 + 4
+
+console.log(exp);
+
+
+var li1 = "List1";
+
+var li2 = "List2";
+
+var li3 = "List3";
+
+document.write("<ul><li>", li1, "</li><li>", li2, "</li><li>", li3, "</li></ul>");
+
+
+var firstName = prompt("Enter first name");
+
+var lastName = prompt("Enter last name");
+
+console.log("My name is", firstName, lastName);
+
+
+var firstNumber = +prompt("Enter first number");
+
+var lastNumber = +prompt("Enter last number");
+
+console.log(firstNumber + lastNumber);
